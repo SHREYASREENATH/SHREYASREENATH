@@ -9,11 +9,11 @@
            
 <!--🤔 I’m looking for help with ... -->
            
-💬 Discuss with me about **Data Strctures, C , Python, Front end Development** 
+💬 Discuss with me about : **Data Strctures, C, Python, Front End Development** 
            
-📫 How to reach me: [Shreya Sreenath](www.linkedin.com/in/shreyasreenath) **(LinkedIn)**
+📫 How to reach me : [Shreya Sreenath](www.linkedin.com/in/shreyasreenath) **(LinkedIn)**
            
-⚡ Fun fact: Give me lots of Melody 🍫 to get some work from Me! 😂
+⚡ Fun fact : Give me lots of Melody 🍫 to get some work from Me! 😂
 
 <br>
 <h3>Languages & Tools</h3>
@@ -54,7 +54,7 @@
       <a href="#macropower-tech">
         <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="48" height="48" alt="Git" />
       </a>
-      <br>React
+      <br>React JS
     </td>
   </tr>
 </table>
