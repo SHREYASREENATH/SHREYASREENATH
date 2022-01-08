@@ -11,7 +11,7 @@
            
 💬 Discuss with me about : **Data Strctures, C, Python, Front End Development** 
            
-📫 How to reach me : [Shreya Sreenath](www.linkedin.com/in/shreyasreenath) **(LinkedIn)**
+📫 How to reach me : [Shreya Sreenath](https://www.linkedin.com/in/shreya-sreenath-097085210/) **(LinkedIn)**
            
 ⚡ Fun fact : Give me lots of Melody 🍫 to get some work from Me! 😂
 
